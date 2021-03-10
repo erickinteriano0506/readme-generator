@@ -1,18 +1,19 @@
-# kdjf
+# Read Me Generator
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributors](#contributors)
 * [Licenses](#licences)
 # Installation
-dsf
+You install this app by using Node
+[![Demo](http://img.youtube.com/vi/JC9xbyCOtQg/0.jpg)](http://www.youtube.com/watch?v=JC9xbyCOtQg "Readme")
 ## Usage
-ds
+Refer to the embedded video
 ## Contributors
-d
+Yes
 ## License
-undefined
+MIT
     
 # Contact
-*GitHub :d
-*LinkedIn :d
-*Email :d
+* GitHub :erickinteriano0506
+* LinkedIn :erickinteriano
+* Email :erick.interiano05@gmail.com

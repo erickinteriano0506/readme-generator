@@ -61,17 +61,18 @@ inquirer
 * [Licenses](#licences)
 # Installation
 ${data.installation}
+[![Demo](http://img.youtube.com/vi/JC9xbyCOtQg/0.jpg)](http://www.youtube.com/watch?v=JC9xbyCOtQg "Readme")
 ## Usage
 ${data.usage}
 ## Contributors
 ${data.contributors}
 ## License
-${data.licences}
+${data.licenses}
     
 # Contact
-*GitHub :${data.username}
-*LinkedIn :${data.linkedin}
-*Email :${data.email}`;
+* GitHub :${data.username}
+* LinkedIn :${data.linkedin}
+* Email :${data.email}`;
     
 
 
