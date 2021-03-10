@@ -2,7 +2,7 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributors](#contributors)
-* [Licenses](#licences)
+* [Licenses](#licence)
 # Installation
 You install this nap by running Git Bash and using Node
 
