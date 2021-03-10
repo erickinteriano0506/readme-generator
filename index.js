@@ -61,9 +61,10 @@ inquirer
 * [Licenses](#licences)
 # Installation
 ${data.installation}
-[![Demo](http://img.youtube.com/vi/JC9xbyCOtQg/0.jpg)](http://www.youtube.com/watch?v=JC9xbyCOtQg "Readme")
+
 ## Usage
 ${data.usage}
+[![Demo](http://img.youtube.com/vi/JC9xbyCOtQg/0.jpg)](http://www.youtube.com/watch?v=JC9xbyCOtQg "Readme")
 ## Contributors
 ${data.contributors}
 ## License
